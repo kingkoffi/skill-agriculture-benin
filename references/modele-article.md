@@ -1,48 +1,49 @@
-# Canevas d’article de vulgarisation + pédagogie analytique
+# Canevas d’article de vulgarisation — Innovation & impact
 
-Objectif : un texte accessible qui sensibilise **et** forme le lecteur à comprendre comment on analyse les données agricoles.
+Objectif : un texte accessible qui sensibilise **et** forme le lecteur à comprendre l’intérêt d’une innovation technique et ses retombées concrètes pour les producteurs béninois.
 
-## Structure type (350–600 mots pour Facebook / 400–800 mots version longue)
+## Structure type (350–650 mots)
 
 ### 1. Accroche (2–4 phrases)
-Fait marquant ou chiffre fort + question.
+Fait marquant, chiffre fort ou problème concret + question orientée innovation.
 
-### 2. Contexte simple
-Pourquoi ce sujet compte pour les producteurs et le pays.
+### 2. Le problème ou l’opportunité
+Pourquoi ce sujet compte pour les producteurs et le pays (pénibilité, pertes, faibles revenus, risque climatique…).
 
-### 3. Les chiffres qui parlent
-4 à 6 données précises, sourcées, clairement datées.
+### 3. L’innovation en question
+Description simple et claire de la technologie, pratique ou modèle.
+Où ça a déjà fonctionné (Bénin, Afrique de l’Ouest ou ailleurs).
 
-### 4. Comment on a analysé (pédagogie)
-Expliquer en langage simple le procédé :
-- Quelles données on a croisées
-- Quels calculs on a faits (évolution, moyenne, ratio…)
-- Quelle question on s’est posée
-- Ce que les chiffres permettent (et ne permettent pas) de dire
+### 4. Ce que ça pourrait changer concrètement
+Retombées potentielles sur :
+- Les rendements et revenus
+- La charge de travail (surtout femmes)
+- La résilience
+- L’emploi ou la transformation locale
 
-Exemple de formulation :
-« Pour comprendre si cette hausse des exportations était solide, on a croisé trois choses : les volumes exportés, la production estimée de la campagne précédente, et les capacités de transformation installées. Voici ce que ça donne… »
+Utiliser des ordres de grandeur quand possible et être transparent sur le niveau de certitude.
 
-### 5. Conclusions tirées
-Présenter clairement 2-3 conclusions principales, hiérarchisées.
-Indiquer le niveau de confiance si nécessaire.
+### 5. Les conditions pour que ça marche au Bénin
+Freins principaux + leviers réalistes (coût, formation, organisation, politique…).
 
-### 6. Ce que cela signifie + message de sensibilisation
-Impact concret + appel à l’action réaliste (producteurs, coopératives, État, investisseurs).
+### 6. Message clair + piste d’action
+Ce que les producteurs, coopératives, État ou privé peuvent commencer à faire.
+Appel à l’action réaliste.
 
 ### 7. Hashtags + Sources
 3-5 hashtags pertinents.
-Sources listées de façon claire.
+Sources listées clairement.
 
 ## Ton
 - Clair, respectueux, pédagogique
-- Ni jargon opaque, ni simplification excessive
+- Orienté solutions et impact concret
+- Ni jargon opaque, ni promesse irréaliste
 - Montrer le raisonnement sans alourdir
 
 ## Checklist
-- [ ] Au moins 4 chiffres précis et sourcés
-- [ ] Explication simple du procédé d’analyse présente
-- [ ] Conclusions clairement énoncées
-- [ ] Message de sensibilisation + piste d’action
-- [ ] Longueur adaptée au canal (Facebook = plus court)
+- [ ] Au moins une innovation technique ou organisationnelle concrète
+- [ ] Impact sur la population (revenus, genre, pénibilité…) abordé
+- [ ] Conditions de succès ou freins mentionnés
+- [ ] Chiffres ou ordres de grandeur sourcés quand disponibles
+- [ ] Longueur adaptée au canal
 - [ ] Aucune donnée inventée
